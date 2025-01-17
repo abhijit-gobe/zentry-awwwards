@@ -1,8 +1,5 @@
 
 
-
-# Zentry-Inspired Awwwards Website
-
 <div align="center">
   <br />
     <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
@@ -17,7 +14,7 @@
   <h3 align="center">An Awwwards Winning Website</h3>
 </div>
 
-[Watch the Live Demo](https://youtu.be/x1_-btXPWpc?si=0-hrV_8fcfRaeR6_)
+[Visit the Live Website](https://zentry-pied.vercel.app/)
 
 ---
 
@@ -27,6 +24,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
+5. 🌐 [Live Demo](#live-demo)
 
 ---
 
@@ -103,6 +101,12 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ---
 
+## 🌐 <a name="live-demo">Live Demo</a>
+
+Check out the live version of the project here: [Live Website](https://zentry-pied.vercel.app/)
+
+---
+
 ## 🎥 Screenshots & Demos
 
 Here are a few highlights of the project:
@@ -126,4 +130,3 @@ Here are a few highlights of the project:
 <br><br>
 
 If you find this project helpful or interesting, feel free to give it a ⭐ or fork it to explore the code further!
-
